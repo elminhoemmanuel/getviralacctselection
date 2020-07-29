@@ -44,7 +44,7 @@
  .header{
      overflow-y: hidden;
      margin-bottom: 7%;
-     margin-top: 16%;
+     margin-top: 13%;
  }
 
 
@@ -83,7 +83,7 @@
     -webkit-box-shadow: 0 4px 8px 0 rgba(58, 42, 42, 0.15), 0 6px 20px 0 rgba(0, 0, 0, 0.14);
     -o-box-shadow: 0 4px 8px 0 rgba(58, 42, 42, 0.15), 0 6px 20px 0 rgba(0, 0, 0, 0.14);
     width: 65%;
-    padding: 2% 1%;
+    padding: 3.5% 1%;
 }
 
 .selection-holder{
