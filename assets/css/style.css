@@ -129,12 +129,12 @@
     }
 
     .left-holder,.right-holder{
-        padding: 4% 3% 5% 13%;
+        padding: 4% 3% 5% 10% !important;
     }
 
     .select-card{
-        width: 100%;
-        padding:3% 1%;
+        width: 93%;
+        padding: 3% 1%;
     }
 
     .back-btn{
