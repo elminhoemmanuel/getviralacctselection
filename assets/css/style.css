@@ -128,8 +128,8 @@
         display: none;
     }
 
-    .left-holder,.right-holder{
-        padding: 4% 3% 5% 10% !important;
+    .right-holder{
+        padding: 4% 3% 5% 13% !important;
     }
 
     .select-card{
