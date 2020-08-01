@@ -129,7 +129,7 @@
     }
 
     .right-holder{
-        padding: 4% 3% 5% 13% !important;
+        padding: 4% 6% 5% 12% !important;
     }
 
     .select-card{
@@ -145,7 +145,17 @@
         margin-top: 12%;
     }
 
+    .header{
+        margin-top: 40%;
+    }
 
+
+}
+
+@media  only screen and (min-width:768px) and (max-width:1024px){
+    .header{
+        margin-top: 45%;
+    }
 }
 
 
